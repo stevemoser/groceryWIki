@@ -1,4 +1,3 @@
 ===========
-~thing~
 groceryWIki
 test
