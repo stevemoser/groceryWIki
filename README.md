@@ -1,2 +1,2 @@
-~groceryWIki~
+groceryWIki
 test
